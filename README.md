@@ -1,10 +1,5 @@
 # maya-scripts
 -----
-# dag_camScrubber
-![](https://raw.githubusercontent.com/thedagnode/maya-scripts/main/dag_camScrubber/dag_camScrubber.jpg)
-
-[YouTube preview](https://youtu.be/h3ijhTBM8vs) 
------
 # License
 
 Copyright (c) 2022, thedagnode
